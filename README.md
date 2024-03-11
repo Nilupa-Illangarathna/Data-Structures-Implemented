@@ -69,6 +69,3 @@ Explore each algorithm and data structure by navigating through the respective d
 
 Contributions are welcome! If you have additional algorithms or improvements, please fork the repository and create a pull request. Follow the [contribution guidelines](CONTRIBUTING.md) for more details.
 
-## License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
